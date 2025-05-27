@@ -6,7 +6,7 @@ Analysis of a sample phishing email as part of a cybersecurity internship task.
 This project analyzes a sample phishing email and highlights common indicators of email-based cyber threats.
 
 ## 📧 Sample Email
-- **Sender:** support@paypa1.com
+
 - **Subject:** Urgent: Your PayPal Account Has Been Suspended
 - **Content:** Includes spoofed domain, suspicious link, and threatening language.
 
