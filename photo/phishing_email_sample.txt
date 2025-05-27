@@ -1,0 +1,20 @@
+Subject: Urgent: Your PayPal Account Has Been Suspended
+
+From: PayPal Support <support@paypa1.com>
+
+Date: May 26, 2025
+
+Dear Customer,
+
+We have noticed suspicious activity on your PayPal account and it has been temporarily suspended as a security measure.
+
+To restore your access, please confirm your identity by clicking the secure link below:
+
+[Verify Account Now](http://paypal.secure-access-alert.com)
+
+Failure to verify within 24 hours will result in permanent closure of your account.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,  
+PayPal Security Team
